@@ -1,9 +1,14 @@
 {
-	"User Info": [
-		{
-			"Email": "lol123omgman5@gmail.com",
-			"Password": "111111",
-			"Username": "aleung2"
-		}
-	]
-}
+    "users": [
+      {
+        "id": 1,
+        "name": "David",
+        "age": 30
+      },
+      {
+        "name": "John",
+        "id": 2,
+        "age": 40
+      }
+    ]
+  }
