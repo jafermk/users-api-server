@@ -1,2 +1,16 @@
 {
+  "User Info": [
+    {
+      "Email": "lol123omgman5@gmail.com",
+      "Password": "111111",
+      "Username": "aleung2",
+      "User ID": 1
+    },
+    {
+      "Email": "alexander.c.leung@ryerson.ca",
+      "Password": "111111",
+      "Username": "aleung",
+      "User ID": 2
+    }
+  ]
 }
