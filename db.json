@@ -1,21 +1,44 @@
 {
   "User Info": [
-    {"Alex Leung": [
-      {
-        "Email": "alexander.c.leung@ryerson.ca",
-        "Password": "111111",
-        "Username": "aleung",
-        "User ID": 1
-      }
+    {
+      "Alex Leung": [
+        {
+          "Email": "alexander.c.leung@ryerson.ca",
+          "Password": "111111",
+          "Username": "ALeung",
+          "User ID": 1
+        }
       ]
     },
-    {"Jafer Kamoonpuri": [
-      {
-        "Email": "jafer.kamoonpuri@ryerson.ca",
-      "Password": "111111",
-      "Username": "jafermk",
-      "User ID": 2
-      }
-  ]}
+    {
+      "Jafer Kamoonpuri": [
+        {
+          "Email": "jafer.kamoonpuri@ryerson.ca",
+          "Password": "111111",
+          "Username": "JaferMK",
+          "User ID": 2
+        }
+      ]
+    },
+    {
+      "Henry Liu": [
+        {
+          "Email": "hanyu.liu@ryerson.ca",
+          "Password": "111111",
+          "Username": "Henry",
+          "User ID": 3
+        }
+      ]
+    },
+    {
+      "Harry Cao": [
+        {
+          "Email": "hanfang.cao@mail.utoronto.ca",
+          "Password": "111111",
+          "Username": "Donshua",
+          "User ID": 4
+        }
+      ]
+    }
   ]
 }
