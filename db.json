@@ -1,16 +1,21 @@
 {
   "User Info": [
-    {
-      "Email": "lol123omgman5@gmail.com",
-      "Password": "111111",
-      "Username": "aleung2",
-      "User ID": 1
+    {"Alex Leung": [
+      {
+        "Email": "alexander.c.leung@ryerson.ca",
+        "Password": "111111",
+        "Username": "aleung",
+        "User ID": 1
+      }
+      ]
     },
-    {
-      "Email": "alexander.c.leung@ryerson.ca",
+    {"Jafer Kamoonpuri": [
+      {
+        "Email": "jafer.kamoonpuri@ryerson.ca",
       "Password": "111111",
-      "Username": "aleung",
+      "Username": "jafermk",
       "User ID": 2
-    }
+      }
+  ]}
   ]
 }
