@@ -1,0 +1,46 @@
+{
+  "User Info": [
+    {
+      "Alex Leung": [
+        {
+          "Email": "alexander.c.leung@ryerson.ca",
+          "Password": "111111",
+          "Username": "ALeung",
+          "User ID": 1
+        }
+      ]
+    },
+    {
+      "Jafer Kamoonpuri": [
+        {
+          "Email": "jafer.kamoonpuri@ryerson.ca",
+          "Password": "111111",
+          "Username": "JaferMK",
+          "RPM_URL": "https://api.readyplayer.me/v1/avatars/60d3c0f718f10b21916925d9.glb",
+          "User ID": 2
+        }
+      ]
+    },
+    {
+      "Henry Liu": [
+        {
+          "Email": "hanyu.liu@ryerson.ca",
+          "Password": "111111",
+          "Username": "Henry",
+          "RPM_URL": "https://api.readyplayer.me/v1/avatars/6326325a3a656b9c323dbedd.glb",
+          "User ID": 3
+        }
+      ]
+    },
+    {
+      "Harry Cao": [
+        {
+          "Email": "hanfang.cao@mail.utoronto.ca",
+          "Password": "111111",
+          "Username": "Donshua",
+          "User ID": 4
+        }
+      ]
+    }
+  ]
+}
