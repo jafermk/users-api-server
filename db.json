@@ -16,6 +16,7 @@
           "Email": "jafer.kamoonpuri@ryerson.ca",
           "Password": "111111",
           "Username": "JaferMK",
+          "RPM_URL": "https://api.readyplayer.me/v1/avatars/60d3c0f718f10b21916925d9.glb",
           "User ID": 2
         }
       ]
@@ -26,6 +27,7 @@
           "Email": "hanyu.liu@ryerson.ca",
           "Password": "111111",
           "Username": "Henry",
+          "RPM_URL": "https://api.readyplayer.me/v1/avatars/6326325a3a656b9c323dbedd.glb",
           "User ID": 3
         }
       ]
